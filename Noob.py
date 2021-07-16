@@ -1,7 +1,4 @@
 import requests
-import sys
-
-os.system("\033[1;92mfiglet NOOB")
 
 
 number=str(input("Enter Your Number:"))
